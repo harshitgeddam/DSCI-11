@@ -1,0 +1,21 @@
+11:25, Airport, ON TIME
+11:55, Airport, ON TIME
+11:35, Glenside, ON TIME
+11:37, Wilmington,  2 LATE
+11:40, Elwyn,  3 LATE
+11:28, Suburban Sta, ON TIME
+11:50, Doylestown,  1 LATE
+11:46, Malvern, ON TIME
+11:39, Norristown,  3 LATE
+11:48, Temple U, ON TIME
+11:49, Chestnut H East, ON TIME
+11:25, Fox Chase, ON TIME
+11:56, Chestnut H West, ON TIME
+11:25, Fox Chase, ON TIME
+11:28, Suburban Sta, ON TIME
+11:35, Glenside, ON TIME
+11:39, Norristown,  3 LATE
+11:25, Airport, ON TIME
+11:37, Wilmington,  2 LATE
+11:40, Elwyn,  3 LATE
+11:46, Malvern, ON TIME

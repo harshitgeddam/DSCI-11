@@ -1,0 +1,20 @@
+00:25, Airport, ON TIME
+00:55, Airport, ON TIME
+00:05, Warminster,  5 LATE
+00:35, Glenside, ON TIME
+00:42, Marcus Hook, ON TIME
+00:43, 30th St, ON TIME
+00:10, West Trenton, ON TIME
+00:11, 30th St,  3 LATE
+00:36, Elwyn, ON TIME
+00:15, Suburban Sta,  1 LATE
+00:50, Doylestown, ON TIME
+00:15, Thorndale, ON TIME
+00:46, Malvern, ON TIME
+00:39, Norristown, ON TIME
+00:44, Temple U, ON TIME
+00:26, Cynwyd, ON TIME
+00:48, Chestnut H East, ON TIME
+00:10, Trenton, ON TIME
+00:22, Fox Chase, ON TIME
+00:55, Chestnut H West, ON TIME
